@@ -1,6 +1,6 @@
 cask "hats" do
-  version "0.4.0"
-  sha256 "3de65a5f1968b3b068c244bae299fd1cbc0e2fc015705cc5c2c9b5f73300ac01"
+  version "0.4.1"
+  sha256 "564420ed7fbaa14af41b9bc5ed7a560263a2c2a6004cfe8a1f4cd667ed43519e"
 
   url "https://github.com/zyuzka/hats/releases/download/v#{version}/Hats-#{version}.dmg"
   name "Hats"
